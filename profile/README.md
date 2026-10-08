@@ -10,6 +10,8 @@ Reverse Engineering Super Mario 3D Land Project.
 > [!IMPORTANT]
 > This project accepts AI assisted decompilation, but NOT AI generated decompilation. It is okay if the code was checked, understood and fixed up by the decompiler.
 
+It is planned to deprecate this projects libraries, and use the ones from [CtrDecomp](https://github.com/ctrdecomp)
+
 Check out the [main repository](https://github.com/RE-Pepper/RE-Pepper)!
 Check out the [3ds decomp discord](https://discord.gg/37mBTzvWsU)!
 Check out the [website](https://rep.moddi.dev)!
