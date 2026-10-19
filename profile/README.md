@@ -8,6 +8,9 @@ Reverse Engineering Super Mario 3D Land Project.
 > The Goal of this project is to decompile and try to replicate the original code, not to get it working on another system or make it easier to pirate the game or access it for free. Even if a full decompilation is achieved, assets are required to get the code running on a real console. There is no way around buying the original game.
 
 > [!IMPORTANT]
+> Projects that are AI generated, are not permitted to reference this project in any way.
+
+> [!IMPORTANT]
 > This project accepts AI assisted decompilation, but NOT AI generated decompilation. It is okay if the code was checked, understood and fixed up by the decompiler.
 
 It is planned to deprecate this projects libraries, and use the ones from [CtrDecomp](https://github.com/ctrdecomp)
